@@ -3,7 +3,7 @@ package programmers.입문;
 // [프로그래머스_입문] 두 수의 차
 // https://school.programmers.co.kr/learn/courses/30/lessons/120803
 
-public class day03_두수의차 {
+public class SubtractTwoNumbers {
     public static void main(String[] args) {
         System.out.println(solution(3,4));
     }   

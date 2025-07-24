@@ -19,3 +19,7 @@ Java로 코딩테스트 연습하며 푼 문제들을 정리합니다.
 | 두 수의 합 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | [코드](./programmers/입문/AddTwoNumbers.java) |
 | 두 수의 차 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | [코드](./programmers/입문/SubtractTwoNumbers.java) |
 | 두 수의 몫 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | [코드](./programmers/입문/DivideTwoNumbers.java) |
+| 두 수의 나눗셈 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | [코드](./programmers/입문/CastBeforeDivision.java) |
+| 숫자 비교하기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | [코드](./programmers/입문/CompareTwoNumbers.java) |
+| 분수의 덧셈 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [코드](./programmers/입문/AddFractions.java) |
+| 배열 두 배 만들기 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [코드](./programmers/입문/DoubleArrayElements.java) |
